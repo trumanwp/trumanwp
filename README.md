@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Adam 👋<br><br>I'm a 3rd-year Computer Science student at Glasgow Caledonian University, focusing on frontend development with React and Tailwind CSS. I enjoy building clean, responsive web interfaces and tackling projects that combine functionality with great user experience.<br><br>I'm currently actively seeking internship opportunities to grow my skills and contribute to real-world projects. Browse my repositories to see my coursework, personal projects, and experiments with modern frontend technologies.
+Hi, I'm Adam 👋<br><br>I'm a 4th-year Computer Science student at Glasgow Caledonian University, focusing on frontend development with React and Tailwind CSS. I enjoy building clean, responsive web interfaces and tackling projects that combine functionality with great user experience.<br><br>I'm currently actively seeking internship opportunities to grow my skills and contribute to real-world projects. Browse my repositories to see my coursework, personal projects, and experiments with modern frontend technologies.
 
 
 ## 🌐 Socials:
